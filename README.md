@@ -130,3 +130,7 @@ By building this project, learners will:
 
 OUTPUT : 
 
+<img width="1919" height="1014" alt="Image" src="https://github.com/user-attachments/assets/a096cbd9-f5aa-4a19-99c0-35c393501a2d" />
+
+<img width="1919" height="1021" alt="Image" src="https://github.com/user-attachments/assets/4d90497c-9d91-489d-959d-c71c5d40d41d" />
+
